@@ -1,0 +1,23 @@
+
+.block{
+width: 10px;
+}
+.card{
+    width: fit-content;
+    padding-right: 60px;
+}
+.container{
+    width: 40px;
+}
+.col:nth-child(2){
+    max-width: 400px;
+}
+th:nth-child(1){
+    padding-right: 100px;
+    padding: 20px;
+    
+    
+}
+th{
+   
+}
